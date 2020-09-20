@@ -13,9 +13,5 @@ public class arr {
             avg = avg + (arr[i] / 3);
         }
         System.out.println("Average is "+ avg);
-
-
-
-
     }
 }
