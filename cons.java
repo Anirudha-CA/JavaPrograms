@@ -19,8 +19,6 @@ public class cons {
         rolln = sc.nextInt();
         cons s1 = new cons(names,rolln);
         cons s2 = new cons(rolln);
-
-
     }
 
 }
